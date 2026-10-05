@@ -92,8 +92,3 @@
 - ✉️ Почта: [tatarintsev_dan1l@mail.ru](mailto:tatarintsev_dan1l@mail.ru)
 - 📄 Резюме: [HH.ru](https://voronezh.hh.ru/resume/fc4612b5ff0c0e35c70039ed1f674332697079) · [Хабр Карьера](https://career.habr.com/s1nuso1d)
 - 🌐 Сайт: [HealthApp](https://s1nuso1d.github.io/HealthApp/)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S1nuso1d&show_icons=true&hide_rank=true&hide=contribs,issues&hide_border=true&bg_color=00000000&title_color=0f4f4a&icon_color=1c6b5a&text_color=243038&include_all_commits=true" alt="Статистика GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1nuso1d&layout=compact&hide_border=true&bg_color=00000000&title_color=0f4f4a&text_color=243038" alt="Языки" height="150">
-</p>
