@@ -27,13 +27,13 @@
 
 | Курс | Где | Когда |
 | --- | --- | --- |
-| 🐍 Advanced Python | Simplilearn SkillUp | сентябрь 2026 |
-| 🐍 Programming with Python 3.X | Simplilearn SkillUp | сентябрь 2026 |
+| 🐍 [Advanced Python](https://simpli-web.app.link/e/62LTZIB6N6b) | Simplilearn SkillUp | сентябрь 2026 |
+| 🐍 [Programming with Python 3.X](https://simpli-web.app.link/e/6vHCoC6FF6b) | Simplilearn SkillUp | сентябрь 2026 |
 | 🐍 Базовый Python | VK Education | 2026 |
 | 🌿 [Основы Git и GitHub](https://stepik.org/cert/3359554), с отличием | Stepik | октябрь 2026 |
 | 🐳 [Знакомство с Docker](https://stepik.org/cert/3354122), с отличием | Stepik | сентябрь 2026 |
-| 🚀 «Студенческий проект НТИ: от идеи к прототипу», 26 часов | Академия наставников | май 2025 |
-| 📣 Digital Marketing | HubSpot Academy | сентябрь 2026 |
+| 🚀 [«Студенческий проект НТИ: от идеи к прототипу»](https://academy-adm-v2.sk.ru/api/certificate/event/LyoIVMZf4QeyRfdmRMaVuP6gbx9YHGNMtDglwOl86G11tmMbQymxMevwkeXxe8rusLFnJhK5s3Ur3YhT91u51XuJZmdygjk1MtVchqukiZ61N4GXl3NGhziv9ePzxb5Pakg7G35uLZGSB9EX0mq4HmPsFrkpYpzzwHxHnVsXuya0aOHVztaM341Ubk7LsWfuDOCqmIACCI6upXgFUHgjVTadD24I2vp22dKkRfcEP9olraFLFUlsbdd7RO), 26 часов | Академия наставников | май 2025 |
+| 📣 [Digital Marketing](https://app-eu1.hubspot.com/academy/achievements/26jn3yjd/en/1/-/digital-marketing-certified) | HubSpot Academy | сентябрь 2026 |
 
 ## 🚀 Что открыть первым
 
