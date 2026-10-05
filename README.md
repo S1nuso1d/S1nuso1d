@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-v2.png" alt="Даниил Татаринцев — Junior Python-разработчик" width="100%">
+  <img src="banner-v3.png" alt="Даниил Татаринцев — Junior Python-разработчик" width="100%">
 </p>
 
 <p align="center">
